@@ -1,0 +1,11 @@
+# printf
+
+> Printf inserts arguments into a user defined string of text and creating formatted output.
+
+- The printf syntax
+
+`printf FORMAT [ARGUMENT]...`
+
+- Another printf syntax
+
+`printf OPTION`
