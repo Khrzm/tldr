@@ -1,11 +1,11 @@
 # wget
 
-> Wget is a free utility for non-interactive download of files from the web.
+> The wget is for non-interactive download of files from the web.
 
-- Installing wget:
+- Install wget:
 
 `sudo apt-get install wget`
 
-- Wget syntax:
+- The wget syntax:
 
 `wget [option]... [URL]...`
